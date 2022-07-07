@@ -1,0 +1,10 @@
+1,Shampoo,Shampo para cabello,45.00,30
+2,Jabon escudo,Jabon para manos,13.00,20
+3,Waffles,Alimento instantaneo,35.00,10
+4,Cafe,Cafe soluble,105.00,15
+5,Jabon Dove,Jabon para manos,20.00,32
+6,Cepillo,Cepillo dental cerda blanda,23.00,32
+7,Galletas,Galletas oreo,15.00,25
+8,Leche,Leche marca santaclara,28.50,40
+9,Jabon Zote,Jabon para ropa,16.50,20
+10,Paleta,Dulce caramelizado,3.00,100
